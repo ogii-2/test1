@@ -7,6 +7,7 @@ jobs:
     steps:
       - checkout
       - run: echo "test"
+      - run: echo "test"
 
 workflows:
   workflow1:
